@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Scott
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning NODE.js,Kotlin,Java
-- 💞️ I’m looking to collaborate on Fun Mobile Apps
+- 🌱 I’m currently learning Unreal Engine
 - 📫 How to reach me info@pc-techs.ca
 
 <!---
