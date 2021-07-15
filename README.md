@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Scott
 - 💻 Linux User
 - 🐍 Python Enthusiast
-- 📱  Mobile App Developer
+- 📱   Mobile App Developer
 - ☕ Java Developer
 - 📚 Learning Assembly Language
 - 📫 How to reach me info@pc-techs.ca
