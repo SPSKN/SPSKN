@@ -2,7 +2,7 @@
 - 💻 Linux User
 - 🐍 Python Enthusiast
 - 📱   Mobile App Developer
-- ☕ Java Developer
+- ☕ Full-Stack Developer
 - 📚 Learning Assembly Language
 - 📫 How to reach me info@pc-techs.ca
 
