@@ -4,8 +4,7 @@
 - 📱   Mobile App Developer
 - 🧱 Front-End Developer
 - 📚 Learning Assembly Language
-- 📫 How to reach me info@pc-techs.ca
-
+- 📫 How to reach me mr.patterson.scott@outlook.com
 <!---
 SPSKN/SPSKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
