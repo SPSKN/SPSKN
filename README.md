@@ -3,7 +3,7 @@
 - 🐍 Python Enthusiast
 - 📱   Mobile App Developer
 - 🧱 Front-End Developer
-- 📚 Learning Assembly Language
+- 📚 Learning Azure Cloud
 - 📫 How to reach me mr.patterson.scott@outlook.com
 <!---
 SPSKN/SPSKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
